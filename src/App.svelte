@@ -77,7 +77,7 @@
   <p>I am <em>{age}</em> years old.</p>
   <p>{@html bio}</p>
 
-  <img style="border-color: {randomColor[randDigit]}" src="/src/assets/photo.jpeg" alt="lauren and her coffee" width="30%">
+  <img style="border-color: {randomColor[randDigit]}" src="/public/photo.jpeg" alt="lauren and her coffee" width="30%">
 
   <h2 style="padding-top: 15px; color: {randomColor[randDigit]}">My Hobbies</h2>
   <div class="hobbies">
